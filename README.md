@@ -26,3 +26,32 @@ In the inital step, the dataset is loaded into pandas csv file. There are 2 colu
 
 ![image](https://user-images.githubusercontent.com/103538049/210273982-289496ac-bd76-45c1-a9cb-57f0a06572d2.png)
 
+# Checking if the dataset is Stationary
+
+![image](https://user-images.githubusercontent.com/103538049/210274086-7a40675a-b324-45d3-801e-bb6d67753c19.png)
+
+
+# Rolling Statistics
+
+![image](https://user-images.githubusercontent.com/103538049/210274145-a4cd57ca-bc50-4c50-bb81-a53ab2908b20.png)
+
+
+# Checking if the data is stationary by performing Augumented Dickey-Fuller Test
+
+![image](https://user-images.githubusercontent.com/103538049/210274221-f71976d0-93da-4bcc-a301-adaa6f095654.png)
+
+
+As the value of p is greater than 0.05, we can confirm the data is not stationary. To make the data stationary, next we will perform the decomposition of data. 
+
+
+# Sesonal Decomposition
+
+![image](https://user-images.githubusercontent.com/103538049/210274316-5e68a3fd-f301-4047-aafb-7daa32c52919.png)
+
+
+# Finding the value of the d paramete
+
+
+
+![image](https://user-images.githubusercontent.com/103538049/210274585-a77689ed-8b7e-443d-9c25-3d82363c786c.png)
+
