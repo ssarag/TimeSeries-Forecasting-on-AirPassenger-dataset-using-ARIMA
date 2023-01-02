@@ -11,10 +11,10 @@ To implement the model, the below 4 essential steps are used
 # Step 1 --->  Check Stationarity: 
 If a time series has a trend or seasonality component, it must be made stationary.
 
-Step 2 ---> Determine the d value: 
+# Step 2 ---> Determine the d value: 
 If the time series is not stationary, it needs to be stationarized through differencing.
 
-Step 3 --> Select AR and MA terms: 
+# Step 3 --> Select AR and MA terms: 
 Use the ACF and PACF to decide whether to include an AR term, MA term, (or) ARMA.
 
-Step 4 ---> Build the model
+# Step 4 ---> Build the model
