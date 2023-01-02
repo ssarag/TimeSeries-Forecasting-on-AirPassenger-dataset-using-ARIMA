@@ -49,9 +49,41 @@ As the value of p is greater than 0.05, we can confirm the data is not stationar
 ![image](https://user-images.githubusercontent.com/103538049/210274316-5e68a3fd-f301-4047-aafb-7daa32c52919.png)
 
 
-# Finding the value of the d paramete
+# Finding the value of the d parameter
 
 
 
 ![image](https://user-images.githubusercontent.com/103538049/210274585-a77689ed-8b7e-443d-9c25-3d82363c786c.png)
+
+
+
+
+# Finding the value of p parameter
+
+![image](https://user-images.githubusercontent.com/103538049/210274722-3aaa15df-b21b-47fb-8b0c-7e5c1284b67e.png)
+
+
+
+
+
+# Finding the value of q parameter
+
+
+
+![image](https://user-images.githubusercontent.com/103538049/210274751-c88f5442-5d70-4555-8ce0-66424319c434.png)
+
+
+
+# RESULT of ARIMA MODEL
+
+
+![image](https://user-images.githubusercontent.com/103538049/210274813-8fc9cee1-bb81-4938-b5bd-52f63f9dcefb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/103538049/210274833-86180497-6b33-4f20-b76f-559036ae4801.png)
+
+
+
+
 
